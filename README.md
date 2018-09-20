@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-
+## TMNGR - Умный комбайн для продвижения в телеграмм
+![Image](https://telegra.ph/file/5eb18cd300e3319f16e81.jpg)
 You can use the [editor on GitHub](https://github.com/Treamz/tmngr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
