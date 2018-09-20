@@ -1,12 +1,34 @@
 ## TMNGR - Умный комбайн для продвижения в телеграмм
 ![Image](https://telegra.ph/file/5eb18cd300e3319f16e81.jpg)
-You can use the [editor on GitHub](https://github.com/Treamz/tmngr.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Программа работает как обычный телеграмм клиент с рядом нестандартных функций.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Функционал:
 
-### Markdown
+# Поддержка безлимитного количества аккаунтов. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Умная рассылка сообщений:
+- По номеру
+- По логинам с автоматической сменой аккаунтов.
+
+# Импорт номеров в аккаунт 
+
+# Накрутка ботов в канал
+
+# Накрутка просмотров 
+
+# В следующих обновлениях:
+Инвайтер в канал. 
+Авторег аккаунтов через сервис.
+Мелкие доработки
+
+# Как на этом заработать? 
+
+Если вы сначала купили, а только потом подумали зачем же вам эта программа и не знаете как ее окупить. Все довольно просто, с помощью данного софта очень просто заниматься продвижением в телеграмм. Вы можете оказывать такие услуги как:
+Рассылка сообщений 
+Накрутка подписчиков
+Накрутка Просмотров 
+Каждая из которых стоит внушытельных денег, дерзайте.
+
 
 ```markdown
 Syntax highlighted code block
