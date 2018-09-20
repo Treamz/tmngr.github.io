@@ -33,4 +33,4 @@
 
 <video src="https://www.youtube.com/embed/ip5U4zJr2GU" width="560" height="315" controls preload></video>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ip5U4zJr2GU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
